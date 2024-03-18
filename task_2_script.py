@@ -1,4 +1,4 @@
-from datapointclass.py import DataPoint
+from datapointclass import DataPoint
 import pandas as pd
 
 # Read API key from a separate file
